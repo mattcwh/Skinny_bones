@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve destroyed, eliminated, and whatever."
+- title: About
+  url: https://mattcwh.github.io/about/
+  excerpt: "Something about me."
   image: neuron.jpg
