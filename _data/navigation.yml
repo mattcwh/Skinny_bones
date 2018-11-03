@@ -1,6 +1,6 @@
 # Site navigation links
 
 - title: About
-  url: https://mattcwh.github.io/about/
+  url: /about/
   excerpt: "Something about me."
   image: neuron.jpg
